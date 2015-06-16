@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.suyonoion.easystlviewpagerui.SlidingTabLayout android:id="@+id/tabs" android:background="#8023a606" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <android.support.v4.view.ViewPager android:id="@+id/pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:id="@+id/id_halaman_1" android:background="#ffaf18d2" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="70.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="1" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/id_halaman_2" android:background="#ffff9c39" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="70.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="2" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@+id/id_halaman_3" android:background="#d823a606" android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <TextView android:textSize="70.0sp" android:textColor="#ffffffff" android:gravity="center" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="3" />
+        </LinearLayout>
+    </android.support.v4.view.ViewPager>
+</LinearLayout>
