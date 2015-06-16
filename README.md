@@ -1,5 +1,6 @@
 # EasyViewPagerUI_SlidingTabLayout
 Simple EasyViewPagerUI with SlidingTabLayout
+
 Java Source : https://github.com/suyonoion/EasyViewPagerUI_SlidingTabLayout
 
 DEMO SAMPLE :
