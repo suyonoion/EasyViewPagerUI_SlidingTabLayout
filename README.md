@@ -1,6 +1,9 @@
 # EasyViewPagerUI_SlidingTabLayout
 Simple EasyViewPagerUI with SlidingTabLayout
 
+DEMO SAMPLE :
+https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_SlidingTabLayout/master/app/demo.apk
+
 Screenshoot 1 :
 
  ![alt tag](https://raw.githubusercontent.com/suyonoion/EasyViewPagerUI_SlidingTabLayout/master/app/screenshoot/Screenshot_2015-06-16-21-37-04.png)
